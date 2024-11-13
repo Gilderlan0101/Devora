@@ -1,0 +1,12 @@
+.vev
+//vev
+vev
+.pycache
+# Ignorar dependências
+node_modules/    # Para projetos Node.js
+venv/            # Para ambientes virtuais Python
+.env             # Arquivos de configuração de variáveis de ambiente
+# Ignorar logs e arquivos de build
+*.log
+dist/
+build/
